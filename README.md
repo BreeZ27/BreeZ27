@@ -6,11 +6,11 @@ I graduate **[Steam and gas turbines department](https://mpei.ru/lang/en/structu
 
 My group researched of **dual-component fuel combustion process**. I did a **short code in MatLab that determinate a brightness of combustion in every frame from highspeed camera (8-bit frames)**. That was my first time of applied programming. 
 
-After internship, I went back to Moscow for graduate exams. Graduated MPEI and started work by Product design engineer on different factories. **Last 3 years I developed [turboexpanders](https://en.wikipedia.org/wiki/Turboexpander)** (all you will see on this [page](http://detander.overhaul-pro.ru/) *is my developments from idea and sketch up to assembling and work test. Also, I did **two patent applications***).
+After the internship, I went back to Moscow for graduate exams. Graduated MPEI and started work by Product design engineer on different factories. **Last 3 years I developed [turboexpanders](https://en.wikipedia.org/wiki/Turboexpander)** (all you will see on this [page](http://detander.overhaul-pro.ru/) *is my developments from idea and sketch up to assembling and work test. Also, I did **two patent applications***).
 
 My work and short part of life in Germany reformed my views. **I want to keep up with the times**.  When I had the opportunity, I started **DataScience** course. Now trying to change the work field.
 
-Here i will share my code and ideas. I open for suggestions.
+Here I will share my code and ideas. I open for suggestions.
 
 
 ### My DataScience skills:
