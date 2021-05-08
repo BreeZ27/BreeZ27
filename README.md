@@ -18,8 +18,7 @@ Here i will share my code and ideas. I open for suggestions.
 * Python
 * Pandas
 * NumPy
-* Matplotlib
-* Seaborn
+* Matplotlib & Seaborn
 * re
 * SQL (MangoDB)
 * API ([VK](https://vk.com/))
