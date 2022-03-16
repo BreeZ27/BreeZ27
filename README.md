@@ -4,7 +4,7 @@ I graduate **[Steam and gas turbines department](https://mpei.ru/lang/en/structu
 
 ### My skills:
 
-#### Python
+#### Python:
 * Pandas
 * NumPy
 * Matplotlib & Seaborn
@@ -12,18 +12,19 @@ I graduate **[Steam and gas turbines department](https://mpei.ru/lang/en/structu
 * re
 * API ([VK](https://vk.com/))
 
-#### SQL
+#### SQL:
 * SQLite
 
-#### Flutter (Dart)
+#### Flutter (Dart):
 * Fluro
 * async/await
 * Unit, Integration testing
 
-### My present
+### My present:
 #### 🔭 I’m currently working on: 
 1. wifi python server without internet access for working with radio-controlled equipment.
 2. Flutter application for working with radio-controlled equipment
+3. SQLite DB development
 #### 🌱 I’m currently learning ML, Flutter.
 
 <!--
